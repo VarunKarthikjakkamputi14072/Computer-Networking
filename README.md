@@ -1,8 +1,7 @@
-# Networking-Model
 
 
-" Proposal for network setup in a 
-university"
+
+" Proposal for NETWORK SETUP FOR A UNIVERSITY"
 
 In this project, we will primarily focus on the designand 
 implementation of network setup in a university using 
