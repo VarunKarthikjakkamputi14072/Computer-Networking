@@ -1,7 +1,8 @@
 
 
 
-" Proposal for NETWORK SETUP FOR A UNIVERSITY"
+"  NETWORK SETUP FOR A UNIVERSITY"
+"Mini project"
 
 In this project, we will primarily focus on the designand 
 implementation of network setup in a university using 
